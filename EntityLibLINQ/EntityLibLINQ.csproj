@@ -21,12 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="ConsoleUI">
-      <HintPath>..\..\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="appconfig.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
