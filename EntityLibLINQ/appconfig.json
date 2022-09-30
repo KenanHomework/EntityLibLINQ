@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlServerConnection": "Server=ASUS-TUF-KENAN\\KENANSQL;Integrated Security=True;Trusted_Connection=True;Database=Library;"
+  }
+} 
